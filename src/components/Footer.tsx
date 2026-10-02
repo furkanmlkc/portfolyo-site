@@ -1,0 +1,1 @@
+export default function Footer(){return <footer className="footer"><a href="#home" className="logo" aria-label="Back to top">FM.</a><span>NETWORK / CLOUD / WEB</span><span>© 2026</span><a href="#home">BACK TO TOP ↑</a></footer>}
